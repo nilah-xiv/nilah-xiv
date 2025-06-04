@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@nilah-xiv**, versed in the complexities of Technomancy and IT Management.
 - 👀 I’m interested in **solving low-hanging problems and creating intuitive, meaningful results**.
 - 🌱 I’m currently learning **Dalamud plugin development and deepening my C# craft**.
-- 💞️ I’m looking to collaborate on **anything my skill set can touch** — Windows and Linux systems/servers, SQL in most flavors, networks across the OSI model... (I’ll stop before this turns into a LinkedIn page. 😆)
+- 💞️ I’m looking to collaborate on **anything my skill set can touch** — Windows and Linux systems/servers, SQL in most flavors, networks across the OSI model..
 ### 🛠️ Skills & Tools
 
 <p align="center">
